@@ -1,2 +1,2 @@
 # vagrant
-конфигурация Vagrant
+Vagrant configuration
